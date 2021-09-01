@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sukritha221
 - 👀 I’m interested in Analytics
 - 🌱 I’m currently learning advanced python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ My Youtube channel link is https://www.youtube.com/channel/UCf6Z2cySK1wZjb5vEwCJ77w
 - 📫 You can reach me at sukrita.joshi@gmail.com
 
 <!---
